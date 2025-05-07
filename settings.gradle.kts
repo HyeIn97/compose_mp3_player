@@ -21,3 +21,6 @@ dependencyResolutionManagement {
 
 rootProject.name = "compose_mp3_player"
 include(":app")
+include(":data")
+include(":domain")
+include(":presentation")
